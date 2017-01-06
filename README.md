@@ -1,2 +1,4 @@
 # hello-world
-first repository ever
+Hi humans
+
+coming from a galaxy far far away 
